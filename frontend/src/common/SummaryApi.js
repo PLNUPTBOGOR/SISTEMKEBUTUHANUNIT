@@ -6,8 +6,8 @@
  * Project : Sistem Kebutuhan PLN - Frontend
  */
 
-// export const baseURL = import.meta.env.VITE_API_URL
-export const baseURL = "http://localhost:8080"
+export const baseURL = import.meta.env.VITE_API_URL
+// export const baseURL = "http://localhost:8080"
 
 const SummaryApi = {
     register : {
