@@ -1,6 +1,6 @@
 {
     "version" : 2,
-    "name" : "Sistem Kebutuhan PLN",
+    "name" : "SISTEMKEBUTUHANUNIT",
     "builds" : [
         {
             "src" : "./index.js",
