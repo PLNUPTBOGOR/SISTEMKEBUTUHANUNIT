@@ -1,6 +1,6 @@
 {
     "version" : 2,
-    "name" : "sistemkebutuhanunit",
+    "name" : "SISTEMKEBUTUHANUNIT",
     "builds" : [
         {
             "src" : "./index.js",
